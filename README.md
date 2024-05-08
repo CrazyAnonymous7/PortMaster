@@ -1,2 +1,2 @@
 # PortMaster
-PortMaster is a versatile Python-based network scanning tool designed to facilitate port scanning and host discovery tasks. With PortMaster, users can quickly and efficiently scan for open ports on one or more target hosts, providing valuable insights into the services running on those hosts.
+PortMaster is your go-to tool for lightning-fast port scanning and network reconnaissance. Developed in Python, PortMaster empowers security professionals, system administrators, and enthusiasts to quickly identify open ports, detect potential vulnerabilities, and assess network security posture with ease.
